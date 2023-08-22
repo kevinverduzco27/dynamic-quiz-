@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+  
+h1 {
+    text-align: center;
+    color: #333;
+}
+  
+#high-scores-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+  
+#high-scores-list li {
+    margin-bottom: 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+  
+#high-scores-list li:first-child {
+    background-color: #ffc107;
+    color: #333;
+    font-weight: bold;
+}
+  
