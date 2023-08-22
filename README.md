@@ -1,6 +1,6 @@
 # dynamic-quiz-
 ## link
-https://kevinverduzco27.github.io/Daily-planner/
+[https://kevinverduzco27.github.io/Daily-planner/](https://github.com/kevinverduzco27/dynamic-quiz-)
 ![unidentified object.](assests/screenshot(2).png)
 ## What did you learn? 
 ```
