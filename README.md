@@ -1,7 +1,7 @@
 # dynamic-quiz-
 ## link
 https://kevinverduzco27.github.io/Daily-planner/
-![unidentified object.](.assests/screenshot-(2).png)
+![unidentified object.](.assests/screenshot(2).png)
 ## What did you learn? 
 ```
 it helped me remember to check every single corner for errors because I had left something collapsed and it messed with my whole code 
