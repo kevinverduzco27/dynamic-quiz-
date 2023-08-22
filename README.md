@@ -1,27 +1,26 @@
 # dynamic-quiz-
 ## link
 https://kevinverduzco27.github.io/Daily-planner/
-![unidentifed object.](./Assets/screenshot.png)
+![unidentified object.](./Assets/screenshot.png)
 ## What did you learn? 
-
 ```
-I learned that sometimes even the simple things could get super complicated if not checked beforehand
+it helped me remember to check every single corner for errors because I had left something collapsed and it messed with my whole code 
 ```
 
 ## What is your motivation
 
 ```
-to really show that I can do this 
+my motivation was purely to get ready for other projects 
 ```
 
 ## Why did you build this project?
 
 ```
-to help build quizzes an hopefully, use them as a study guide
+this project was built in order to organize and ready their workday before class
 ```
 
 ## What problem does it solve?
 
 ```
-it makes it so that i can challenge myself with questions 
+this Project solves the issue of having a messy day and an unfit schedule
 ```
